@@ -1,4 +1,4 @@
-# Getting-Started-with-AWS
+# variables.tf and outputs.tf
 
 ### Creation
 ![creation](https://github.com/mahimasharu2208/Getting-Started-with-AWS/blob/main/Variable/Screenshots/Create1.png)
